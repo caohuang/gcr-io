@@ -1,2 +1,2 @@
-FROM gcr.io/istio-release:master-latest-daily
+FROM gcr.io/istio-release:master
 MAINTAINER cao.huang
